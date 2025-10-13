@@ -1,0 +1,14 @@
+IP Address of youtube.com: 142.250.192.110
+No A record found: name 'dns_test' is not defined
+No MX record found: name 'dns_test' is not defined
+No CNAME record found: name 'dns_test' is not defined
+
+--- DNS Query Completed ---
+
+IP Address of youtube.com: 142.250.183.174
+A Record: 142.250.183.174
+MX Record: 0 smtp.google.com.
+No CNAME record found: The DNS response does not contain an answer to the question: youtube.com. IN CNAME
+
+--- DNS Query Completed ---
+
