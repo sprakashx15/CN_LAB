@@ -1,0 +1,5 @@
+BGP routing table for AS5
+Prefix    AS-Path        AS-Path-Length    Next-Hop
+P1        3 -> 2 -> 1                 2           2
+P3        3                           0
+P4        4                           0

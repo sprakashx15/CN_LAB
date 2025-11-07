@@ -1,0 +1,7 @@
+OSPF routing table for R4
+Destination      Cost  Next Hop
+R1                  4  R2
+R2                  2  R2
+R3                  3  R2
+R4                  0  R4
+R5                  1  R5

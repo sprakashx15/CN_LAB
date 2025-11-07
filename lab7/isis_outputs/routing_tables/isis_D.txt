@@ -1,0 +1,8 @@
+IS-IS routing table for D (rounds=4)
+Destination      Cost  Next Hop
+A                   6  B
+B                   4  B
+C                   5  B
+D                   0  D
+E                   1  E
+F                   3  F

@@ -1,0 +1,7 @@
+Router A routing table after convergence (rounds=3)
+Destination      Cost  Next Hop
+A                   0  A
+B                   1  B
+C                   1  C
+D                   2  B
+E                   2  C
